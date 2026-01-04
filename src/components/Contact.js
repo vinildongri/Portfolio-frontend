@@ -28,7 +28,7 @@ const Contact = () => {
 
     try {
       const response = await fetch(
-        `${process.env.REACT_APP_API_BASE_URL}`,
+        `${process.env.REACT_APP_API_BASE_URL}/send/mail`,
         {
           method: "POST",
           headers: {
