@@ -50,6 +50,7 @@ const skillsData = [
     title: "App Development",
     skills: [
       "Kotlin",
+      "Jetpack Compose",
       "Java(Novice)"
     ]
   },
