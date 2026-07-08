@@ -40,12 +40,20 @@ const portfolioItems = [
     link: " https://note-gen-frontend.vercel.app/ "
   },
 
+  // {
+  //   title: "To Do App",
+  //   description:
+  //     "We can store our list of to-todos, add filters, mark and unmark as done.. simple but funny",
+  //   imageUrl: "/images/todo-cover.jpeg",
+  //   link: " https://to-do-app-fawn-one.vercel.app/"
+  // },
+
   {
-    title: "To Do App",
+    title: "Yandu",
     description:
-      "We can store our list of to-todos, add filters, mark and unmark as done.. simple but funny",
-    imageUrl: "/images/todo-cover.jpeg",
-    link: " https://to-do-app-fawn-one.vercel.app/"
+      "Yandu is a technology company that delivers innovative web, mobile, AI, and digital solutions, helping businesses transform ideas into scalable, high-performance products.",
+    imageUrl: "/images/yandu.png",
+    link: "https://www.yandu.in/"
   }
 
 ];
@@ -69,7 +77,7 @@ const Portfolio = () => {
               <img
                 src={item.imageUrl}
                 alt={item.title}
-                className="w-full h-64 object-cover group-hover:opacity-80 transition-opacity duration-300"
+                className="w-full h-74 object-cover group-hover:opacity-80 transition-opacity duration-300"
               />
               <div className="absolute inset-0 flex flex-col justify-center items-center bg-black bg-opacity-50 opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-center p-4">
                 <h4 className="text-2xl font-semibold text-white mb-2">{item.title}</h4>

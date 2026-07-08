@@ -61,13 +61,19 @@ const Home = () => {
 
         {/* Social Icons */}
         <div className="flex justify-center md:justify-start gap-4 text-2xl text-gray-600 dark:text-gray-300">
-          <a href="https://www.linkedin.com/in/dongri-vinil-ba3bb5376/" className="hover:text-blue-700">
+          <a href="https://www.linkedin.com/in/vinil-dongri-4ab822353/" 
+            target="_blank" rel="noopener noreferrer"
+            className="hover:text-blue-700">
             <i className="bx bxl-linkedin"></i>
           </a>
-          <a href="https://x.com/vinildongri" className="hover:text-blue-400">
+          <a href="https://x.com/vinildongri" 
+            target="_blank" rel="noopener noreferrer"
+            className="hover:text-blue-400">
             <i className="bx bxl-twitter"></i>
           </a>
-          <a href="https://github.com/vinildongri" className="hover:text-blue-400">
+          <a href="https://github.com/vinildongri" 
+            target="_blank" rel="noopener noreferrer"
+            className="hover:text-blue-400">
             <i className="bx bxl-github"></i>{" "}
           </a>
           {/* <a href="#" className="hover:text-blue-600"><i className='bx bxl-facebook'></i></a>

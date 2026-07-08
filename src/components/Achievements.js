@@ -21,6 +21,12 @@ const achievements = [
     highlight: "Institute Rank: 2",
     link: "https://www.geeksforgeeks.org/profile/dongrivinil?from=explore&tab=activity"
   },
+    {
+    title: "Gen AI Exchange Hackathon 2025 by Google",
+    // detail: "",
+    highlight: "Powered by: Hack2skill, Issued on: Jan 14, 2026",
+    link: "https://certificate.hack2skill.com/user/genaidemystifyinglegaldocuments/2025H2S08GH-P802289"
+  },
    {
     title: "SkillsBuild-Customer Engagement",
     detail: "",
