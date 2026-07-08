@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-import { img } from "framer-motion/client";
 import { MdOutlineWorkOutline } from "react-icons/md";
 
 const responsibilities = [
