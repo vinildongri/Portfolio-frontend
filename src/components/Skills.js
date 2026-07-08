@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
-import { title } from "framer-motion/client";
-import { FaCode, FaTools, FaServer, FaDatabase, FaAppStore, FaAndroid } from "react-icons/fa";
+import { FaCode, FaTools, FaServer, FaDatabase, FaAndroid } from "react-icons/fa";
 
 const skillsData = [
   {

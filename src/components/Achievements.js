@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-import { details, title } from "framer-motion/client";
 import { FaAward } from "react-icons/fa";
 
 const achievements = [
@@ -27,13 +26,13 @@ const achievements = [
     highlight: "Powered by: Hack2skill, Issued on: Jan 14, 2026",
     link: "https://certificate.hack2skill.com/user/genaidemystifyinglegaldocuments/2025H2S08GH-P802289"
   },
-   {
-    title: "SkillsBuild-Customer Engagement",
-    detail: "",
-    // detail: "Communication and Personality Dynamics",
-    highlight: "Issued by: IBM SkillsBuild, Issued on: Mar 27, 2025",
-    link: "/IBMDesign.pdf"
-  },
+  //  {
+  //   title: "SkillsBuild-Customer Engagement",
+  //   detail: "",
+  //   // detail: "Communication and Personality Dynamics",
+  //   highlight: "Issued by: IBM SkillsBuild, Issued on: Mar 27, 2025",
+  //   link: "/IBMDesign.pdf"
+  // },
 ];
 
 const cardVariants = {
