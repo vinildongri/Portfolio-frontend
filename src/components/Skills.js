@@ -59,7 +59,7 @@ const skillsData = [
     skills: [
       "MongoDB",
       // "MySQL",
-      // "PostgreSQL"
+      "PostgreSQL"
     ]
   }
 ];

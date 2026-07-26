@@ -45,13 +45,13 @@ const Home = () => {
         </h1>
 
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-blue-500">
-          Dongri Vinil
+          Vinil Dongri
         </h1>
 
         <p className="text-lg text-gray-600 dark:text-gray-300">
           I specialize in building modern, beautiful,{" "}
           <span className="text-blue-500"> Efficient</span>,{" "}
-          <span className="text-blue-500"> Scalable</span>, and fully responsive web and mobile applications. 
+          <span className="text-blue-500"> Scalable</span>, and fully responsive web and mobile applications.
           {/* and responsive web applications. */}
         </p>
 
@@ -61,17 +61,17 @@ const Home = () => {
 
         {/* Social Icons */}
         <div className="flex justify-center md:justify-start gap-4 text-2xl text-gray-600 dark:text-gray-300">
-          <a href="https://www.linkedin.com/in/vinil-dongri-4ab822353/" 
+          <a href="https://www.linkedin.com/in/vinil-dongri-4ab822353/"
             target="_blank" rel="noopener noreferrer"
             className="hover:text-blue-700">
             <i className="bx bxl-linkedin"></i>
           </a>
-          <a href="https://x.com/vinildongri" 
+          <a href="https://x.com/vinildongri"
             target="_blank" rel="noopener noreferrer"
             className="hover:text-blue-400">
             <i className="bx bxl-twitter"></i>
           </a>
-          <a href="https://github.com/vinildongri" 
+          <a href="https://github.com/vinildongri"
             target="_blank" rel="noopener noreferrer"
             className="hover:text-blue-400">
             <i className="bx bxl-github"></i>{" "}
@@ -83,7 +83,7 @@ const Home = () => {
 
         {/* CV Button */}
         <a
-          href="/resume.pdf"
+          href="/vinil_resume.pdf"
           className="inline-flex items-center justify-center bg-blue-500 hover:bg-blue-600 text-white px-6 py-2 rounded-lg font-medium transition"
           download
         >
@@ -100,7 +100,7 @@ const Home = () => {
         viewport={{ once: true }}
       >
         <img
-          src="/vinil.png"
+          src="/vinil8.png"
           alt="Dongri Vinil"
           className="w-60 h-60 sm:w-72 sm:h-72 object-cover rounded-full border-4 border-blue-300 shadow-lg animate-float"
         />

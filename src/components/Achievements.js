@@ -26,6 +26,13 @@ const achievements = [
     highlight: "Powered by: Hack2skill, Issued on: Jan 14, 2026",
     link: "https://certificate.hack2skill.com/user/genaidemystifyinglegaldocuments/2025H2S08GH-P802289"
   },
+  {
+    title: "AMD Slingshot Hackathon 2026",
+    // detail: "",
+    highlight: "Powered by: Hack2skill, Issued on: Jul 15, 2026",
+    link: "https://certificate.hack2skill.com/claim/6401467046b32babe1d19402cafd2e4022a1b649296f1b736c7ff11617392b08"
+  },
+
   //  {
   //   title: "SkillsBuild-Customer Engagement",
   //   detail: "",
